@@ -10,6 +10,7 @@
 ,polkit,"manages user policies."
 ,ttf-jetbrains-mono,"main font"
 ,ttf-font-awesome,"icon font support"
+,ttf-jetbrains-mono-nerd,"font support"
 ,dosfstools,"allows your computer to access dos-like filesystems."
 ,libnotify,"allows desktop notifications."
 ,firefox,"perfect with ublock and vimium."
