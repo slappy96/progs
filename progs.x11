@@ -31,7 +31,6 @@
 ,mpv,"is the patrician's choice video player."
 ,mpd,"music manager."
 ,mpc,"interact with mpd."
-,test,"interact with mpd."
 ,thunar,"gui file manager."
 ,celluloid,"great gui media player +cover.jpg."
 ,socat,"manages sound sockets for pauseall."
