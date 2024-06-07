@@ -51,6 +51,7 @@
 ,fzf,"is a fuzzy finder tool used for easy selection and location of files."
 ,fd,"file finder with better perf than find."
 ,bat,"can highlight code output and display files and is used to generate previews in the file browser."
+G,https://github.com/olivierverdier/zsh-git-prompt.git,"vcs zsh prompt"
 G,https://github.com/siduck/st.git,"st - made by siduck"
 G,https://gitlab.com/hornet96/swm.git,"suckless dynamic window manager"
 G,https://gitlab.com/hornet96/smenu.git,"suckless dynamic window manager"
